@@ -15,6 +15,7 @@ Contents
 
    introduction
    tutorials
+   plots
    configuration
    tree
    developing
